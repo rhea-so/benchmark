@@ -63,3 +63,15 @@ Statistics        Avg      Stdev        Max
     others - 0
   Throughput:    78.34MB/s
 ```
+
+### Fastify Mercurius TypeORM
+
+```
+Statistics        Avg      Stdev        Max
+  Reqs/sec      4439.54     480.70    5712.60
+  Latency       28.15ms     1.47ms   100.32ms
+  HTTP codes:
+    1xx - 0, 2xx - 1000000, 3xx - 0, 4xx - 0, 5xx - 0
+    others - 0
+  Throughput:    71.43MB/s
+```
