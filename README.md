@@ -14,8 +14,7 @@
 
 ## 결과
 
-<img width="850" alt="image" src="https://github.com/rhea-so/benchmark/assets/25793226/e5a69552-d40d-4b28-a156-ef4bc519d624">
-
+<img width="848" alt="image" src="https://github.com/rhea-so/benchmark/assets/25793226/3499e762-6584-4990-9249-1d3d3c65439b">
 
 ### Express Apollo Sequelize
 
