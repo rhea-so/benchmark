@@ -1,0 +1,26 @@
+{
+	"scripts": {
+		"start": "nest build && node dist/main"
+	},
+	"dependencies": {
+		"@apollo/subgraph": "2.7.1",
+		"@mercuriusjs/gateway": "1.2.0",
+		"@nestjs/common": "10.3.3",
+		"@nestjs/core": "10.3.3",
+		"@nestjs/graphql": "12.1.1",
+		"@nestjs/mercurius": "12.1.1",
+		"@nestjs/platform-fastify": "10.3.3",
+		"@nestjs/sequelize": "10.0.1",
+		"graphql": "16.8.1",
+		"mariadb": "3.2.3",
+		"mercurius": "13.4.0",
+		"sequelize": "6.37.1",
+		"sequelize-typescript": "2.1.6"
+	},
+	"devDependencies": {
+		"@nestjs/cli": "10.3.2",
+		"@types/node": "18.16.19",
+		"@types/sequelize": "4.28.15",
+		"typescript": "5.2.2"
+	}
+}
